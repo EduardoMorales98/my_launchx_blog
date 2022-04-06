@@ -8,6 +8,7 @@ Hola ✌️  soy el explorer **Eduardo Morales** y este es mi blog personal dond
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son:
+
 -Tener un mayor conocimiento del uso de Git y GitHub
 -Aprender a usar Javascript para el Backend
 -Desarrollar más mis habilidades para programar
